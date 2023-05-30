@@ -1,0 +1,3 @@
+interface Maintenance {
+    void lakukanMaintenance();
+}
